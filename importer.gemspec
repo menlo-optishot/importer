@@ -21,7 +21,7 @@ end}
   s.email = ["russell@voomify.com"]
   s.extra_rdoc_files = ["History.txt", "Manifest.txt"]
   s.files = ["History.txt", "Manifest.txt", "README.rdoc", "Rakefile", "lib/importer.rb", "lib/importer/csv.rb", "script/console", "script/destroy", "script/generate", "spec/files/test_import.csv", "spec/importer_spec.rb", "spec/spec.opts", "spec/spec_helper.rb", "tasks/rspec.rake"]
-  s.homepage = %q{http://github.com/#{github_username}/#{project_name}}
+  s.homepage = %q{http://github.com/menlo-optishot/importer}
   s.rdoc_options = ["--main", "README.rdoc"]
   s.require_paths = ["lib"]
   s.rubyforge_project = %q{voomify-importer}
